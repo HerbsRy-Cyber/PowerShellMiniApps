@@ -1,4 +1,4 @@
-# PowerShellMini-Apps
+# PowerShell MiniApps
 A PowerShell Template file for generating professional looking Win-Forms Applications
 
 The Mini-Apps project in a nutshell is a PowerShell.ps1 file that generates a Windows Forms Application by leveraging the .NET Framework.
