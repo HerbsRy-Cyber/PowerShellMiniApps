@@ -17,3 +17,5 @@ Well, PowerShell Studio is an IDE (that looks quite amazing may I add...) that c
 The idea behind this project was to create highly portable & multi-use-case single template at zero cost that can be edited and customised in any Windows based text editor without the need to rely on 3rd party tools.
 
 If all you need is a small UI that separates tasks and triggers your custom code, or, you just want a fresh interface to call your existing scripts then this could be what you're looking for.
+
+# Stay touned for the template file and a demo document
