@@ -18,4 +18,4 @@ The idea behind this project was to create highly portable & multi-use-case sing
 
 If all you need is a small UI that separates tasks and triggers your custom code, or, you just want a fresh interface to call your existing scripts then this could be what you're looking for.
 
-# Stay touned for the template file and a demo document
+# Stay tuned for the template file and a demo document
