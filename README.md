@@ -15,8 +15,6 @@ Personal note:
 This is not a fully Integrated Development Environment (IDE); simply put... it's a single .ps1 file that was hand written using PowerShell ISE.
 I have taken the time to look at online PowerShell Form demo's that PS-Gurus have produced only to find that others have posted comments such as "why not just use PowerShell Studio...?"
 Well, PowerShell Studio is an IDE (that looks quite amazing may I add...) that costs around $400 annually, so, if like myself you only write PowerShell code here and there (as needed) it may be difficult to justify committing to such a cost, especially if you're just starting out with PowerShell or Win-Forms.
-The idea behind this project was to create highly portable & multi-use-case single template at zero cost that can be edited and customised in any Windows based text editor without the need to rely on 3rd party tools.
+The idea behind this project was to create a highly portable & multi-use-case single template at zero cost that can be edited and customised in any Windows based text editor without the need to rely on 3rd party tools.
 
 If all you need is a small UI that separates tasks and triggers your custom code, or, you just want a fresh interface to call your existing scripts then this could be what you're looking for.
-
-# Stay tuned for the template file and a demo document
