@@ -10,6 +10,7 @@ In most cases when presenting a user with a Front-End interface that hosts multi
 The Mini-Apps Project Template is exactly that, it's a small but highly customisable GUI with multiple ListBox controls and an OK button, it also comes equipped with a customisable FileMenu, Toolbar, TabControl, About Form, Custom Labels, LinkLabels, MsgBox confirmation prompt and a few other cool features.
 All of the buttons and menus are already hooked up to empty functions and switch statements so all you need to do is add your own custom commands and you're set.
 Given that it's a PowerShell (.ps1) file, you have full access to the code therefore you have complete control over your application.
+
 Personal note:
 This is not a fully Integrated Development Environment (IDE); simply put... it's a single .ps1 file that was hand written using PowerShell ISE.
 I have taken the time to look at online PowerShell Form demo's that PS-Gurus have produced only to find that others have posted comments such as "why not just use PowerShell Studio...?"
