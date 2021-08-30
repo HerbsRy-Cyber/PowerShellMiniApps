@@ -8,4 +8,4 @@ Function Tool_Strip_Button_1  { Get-Service | Out-GridView; }
 
 Function Tool_Strip_Button_1  { Get-Service | Out-Host; }
 
-Function Tool_Strip_Button_1  { Start-Process PowerShell.exe -Argument "-NoExit -NoLogo -NoProfile -Command Get-Service;"}
+Function Tool_Strip_Button_1  { Start-Process PowerShell.exe -verb "RunAs" -Argument "-NoExit -NoLogo -NoProfile -Command Get-Service;"}
