@@ -1,0 +1,11 @@
+When creating your own code inside the existing funcions, you may want to return that data visually.
+
+Below are some examples of how you can interact with your results.
+
+
+
+Function Tool_Strip_Button_1  { Get-Service | Out-GridView; }
+
+Function Tool_Strip_Button_1  { Get-Service | Out-Host; }
+
+Function Tool_Strip_Button_1  { Start-Process PowerShell.exe -Argument "-NoExit -NoLogo -NoProfile -Command Get-Service;"}
